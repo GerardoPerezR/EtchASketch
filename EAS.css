@@ -1,0 +1,11 @@
+#container      {
+
+    border-style: solid;
+    border-width: 8px;
+    border-color: red;
+    background-color: aqua;
+    width: 960px;
+    height: 960px;
+
+
+}
