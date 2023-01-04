@@ -3,9 +3,21 @@
     border-style: solid;
     border-width: 8px;
     border-color: red;
-    background-color: aqua;
+    background-color: white;
     width: 960px;
     height: 960px;
+    display: grid;
+    
+}
 
+
+
+
+.square    {
+
+    background-color: black;
+    color: white;
+   
 
 }
+
