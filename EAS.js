@@ -37,7 +37,7 @@ const rainbowButton = document.getElementById('rainbow');
 
 
         applyButton.addEventListener('click', clearPad);
-
+      
         setColorButtons();
 
 
