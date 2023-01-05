@@ -23,5 +23,34 @@ body{
     background-color: black;
 }
 
+#green  {
+    background-color: green;
+}
 
+#yellow {
+    background-color: yellow;
+}
+
+#red    {
+    background-color: red;
+}
+
+
+#blue   {
+    background-color: blue;
+}
+
+
+#rainbow    {
+    background: linear-gradient(45deg, blue, red);
+}
+
+
+.colorButton    {
+
+   
+    
+    height: 48px;
+    width: 48px;
+}
 
