@@ -72,8 +72,13 @@ body{
     background-color: blue;
 }
 
-#numOfSquares   {
-    width: 560px;
+.slider   {
+    width: 240px;
+    appearance: none;
+    background: RED;
+
+    border-radius: 0%;
+    cursor: pointer;
 }
 
 #instruments    {
@@ -84,4 +89,15 @@ body{
 #resolution {
     display: flex;
     flex-direction: row;
+}
+
+label   {
+    font-size: 48px;
+}
+
+#demo   {
+    font-size: 48px;
+}
+h1  {
+    font-size: 48px;
 }
