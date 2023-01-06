@@ -54,7 +54,7 @@ body{
 .colorButton    {
 
    
-    font-family: 'Press Start 2P', cursive;
+    
     height: 48px;
     width: 48px;
 }
@@ -66,7 +66,7 @@ body{
 }
 
 #apply  {
-    
+    font-family: 'Press Start 2P', cursive;
     border-radius: 0%;
     color: white;
     background-color: blue;
