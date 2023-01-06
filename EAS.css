@@ -4,8 +4,8 @@
     border-width: 8px;
     border-color: red;
     background-color: white;
-    width: 680px;
-    height: 680px;
+    width: 720px;
+    height: 720px;
     display: grid;
     
 }
@@ -63,6 +63,7 @@ body{
     font-size:  32px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 #apply  {
@@ -73,7 +74,10 @@ body{
 }
 
 .slider   {
-    width: 240px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 480px;
     appearance: none;
     background: RED;
 
@@ -82,7 +86,7 @@ body{
 }
 
 #instruments    {
-    font-size: 32px;
+    font-size: 36px;
 }
 
 
