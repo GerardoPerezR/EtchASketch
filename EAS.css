@@ -18,7 +18,7 @@ body{
     justify-content: center;
     align-items: center;
     font-family: 'Inspiration', cursive;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Press Start 2P', cursive;
     background-color: black;
   
 }
@@ -54,13 +54,13 @@ body{
 .colorButton    {
 
    
-    
+    font-family: 'Press Start 2P', cursive;
     height: 48px;
     width: 48px;
 }
 
 #colorButtons   {
-    font-size:  48px;
+    font-size:  32px;
     display: flex;
     justify-content: space-between;
 }
@@ -82,7 +82,7 @@ body{
 }
 
 #instruments    {
-    font-size: 48px;
+    font-size: 32px;
 }
 
 
@@ -92,11 +92,11 @@ body{
 }
 
 label   {
-    font-size: 48px;
+    font-size: 32px;
 }
 
 #demo   {
-    font-size: 48px;
+    font-size: 32px;
 }
 h1  {
     font-size: 48px;
