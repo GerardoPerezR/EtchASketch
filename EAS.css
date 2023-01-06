@@ -4,19 +4,23 @@
     border-width: 8px;
     border-color: red;
     background-color: white;
-    width: 820px;
-    height: 820px;
+    width: 680px;
+    height: 680px;
     display: grid;
     
 }
 
 
 body{
+    color: whitesmoke;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-family: cursive;
+    font-family: 'Inspiration', cursive;
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+  
 }
 
 .square {
@@ -55,3 +59,29 @@ body{
     width: 48px;
 }
 
+#colorButtons   {
+    font-size:  48px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#apply  {
+    
+    border-radius: 0%;
+    color: white;
+    background-color: blue;
+}
+
+#numOfSquares   {
+    width: 560px;
+}
+
+#instruments    {
+    font-size: 48px;
+}
+
+
+#resolution {
+    display: flex;
+    flex-direction: row;
+}
